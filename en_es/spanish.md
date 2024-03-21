@@ -1,10 +1,6 @@
-# Subjectual Language Acquisition
+# Subjectual Language Acquisition: English to Español
 
 ## Preface
-
-When a novel language is presented to adult students it is often described using verbose terminology native only to linguistics. While these concepts are appropriate in a strictly academic setting, it is not necessary nor conducive to language acquisition for habitual speech. Most people in their native tongue are unable to describe basic grammatical categories, yet are able to point out incorrect speech when heard. This is because such 'rules' are acquired during childhood through constant trial and error whether at home, school, or play. As children, individuals are permitted to experiment with language while being corrected by parents, teachers, and peers as they approach new modes of speech. These interactions are bidirectional; the child after experimenting and being corrected, is then able to play the role of critic to other peers or siblings. This is the functional reason as to why children appear to adopt language more readily than adults.
-
-The advantage adults have when acquiring a new language is their ability to rely on analogs in their native tongue. The most intricate use of this technique is known as language transfer. The main issue with this approach is the reliance on similar enough grammar and vocabulary between the native and novel language. In order to avoid the pitfalls of negative language transfer, we should approach language as a tool to express thoughts and emotions that are not contingent on language itself. This will produce the motivation necessary for successful language acquisition to occur. The native language still has utility in establishing meaning and presenting concepts, but the focus should be to encourage students to rely on the novel language to express their ideas and intentions.
 
 The exercises in this guide are meant to describe the structure of speech used in conversation. They are limited in example, but can be greatly expanded upon. Exercises are to be followed in order, as each segment carefully builds upon the previous one. Each exercise is given a linguistic description for pedagogical purposes, and are NOT meant to be taught to students. Further study could be in the form of (digital) flashcards that can help students associate words with images and help refine grammar. The most effective form of practice is speaking the novel language to classmates and native speakers. The primary goal of this approach is to build confidence in students so that they may become motivated to build fluency by interacting with other speakers.
 
@@ -94,9 +90,9 @@ The focus of this segment is to define the use of adjectives in speech. Some lan
 
 ### A subject could be you
 `ex. 8: Present the verb used to describe being.`
-> **Yo soy un(a) estudiante** in English is *I am a student*.
+> **Yo soy un[a] estudiante** in English is *I am a student*.
 >
-> **Yo soy un(a) estudiante muy cansado(a)** in English is *I am a very tired student*.
+> **Yo soy un[a] estudiante muy cansado(a)** in English is *I am a very tired student*.
 
 ### A subject could be who you are talking to
 `ex. 9: Present the verb (and conjugation) of being in the second person (informal).`
