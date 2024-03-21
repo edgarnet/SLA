@@ -2,7 +2,7 @@
 
 ## Preface
 
-The exercises in this guide are meant to describe the structure of speech used in conversation. They are limited in example, but can be greatly expanded upon. Exercises are to be followed in order, as each segment carefully builds upon the previous one. Each exercise is given a linguistic description for pedagogical purposes, and are NOT meant to be taught to students. Further study could be in the form of (digital) flashcards that can help students associate words with images and help refine grammar. The most effective form of practice is speaking the novel language to classmates and native speakers. The primary goal of this approach is to build confidence in students so that they may become motivated to build fluency by interacting with other speakers.
+Before any use of this material, make sure to introduce the alphabet of the language that is being presented. The exercises in this guide are meant to describe the structure of speech used in conversation. They are limited in example, but can be greatly expanded upon. Exercises are to be followed in order, as each segment carefully builds upon the previous one. Each exercise is given a linguistic description for pedagogical purposes, and are NOT meant to be taught to students. Further study could be in the form of (digital) flashcards that can help students associate words with images and help refine grammar. The most effective form of practice is speaking the novel language to classmates and native speakers. The primary goal of this approach is to build confidence in students so that they may become motivated to build fluency by interacting with other speakers.
 
 ## The Subject
 
