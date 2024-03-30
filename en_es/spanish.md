@@ -66,8 +66,6 @@ The subject in this sentence is the **dog**.
 
 ## The Subject Becomes
 
->And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth. - John 1:14
-
 ### Introduction
 
 The focus of this segment is to define the use of adjectives in speech. Some languages may not require the use of articles or verbs to depict subjects, whereby the following exercises should be adapted accordingly.
@@ -122,8 +120,6 @@ The focus of this segment is to define the use of adjectives in speech. Some lan
 
 ## The Subject Bears
 
-> I have yet many things to say unto you, but ye cannot bear them now. - John 16:12
-
 ### Introduction
 
 The focus of this segment is to define the use of adjectives that describe a temporary state of being, as opposed to permanent traits or professions. Some languages do not make such a distinction, and thus use the same verbs and articles to express these types of statements.
@@ -163,8 +159,7 @@ The focus of this segment is to define the use of adjectives that describe a tem
 
 ## The Subject Moves
 
-> For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. - Acts 17:28
-
+### Introduction
 
 ---
 
