@@ -2,7 +2,7 @@
 
 ## Preface
 
-Before any use of this material, make sure to introduce the alphabet of the language that is being presented. The exercises in this guide are meant to describe the structure of speech used in conversation. They are limited in example, but can be greatly expanded upon. Exercises are to be followed in order, as each segment carefully builds upon the previous one. Each exercise is given a linguistic description for pedagogical purposes, and are NOT meant to be taught to students. Further study could be in the form of (digital) flashcards that can help students associate words with images and help refine grammar. The most effective form of practice is speaking the novel language to classmates and native speakers. The primary goal of this approach is to build confidence in students so that they may become motivated to build fluency by interacting with other speakers.
+Before any use of this material, make sure to introduce the alphabet of the language that is being presented. The exercises in this guide are meant to describe the structure of speech used in conversation. They are limited in example, but can be greatly expanded upon. Exercises are to be followed in order, as each segment carefully builds upon the previous one. Each exercise is given a linguistic description for pedagogical purposes, and are NOT meant to be taught to students. Further study could be in the form of (digital) flashcards that can help students build vocabulary and refine grammar. The most effective form of practice is speaking the novel language to classmates and native speakers. The primary goal of this approach is to build confidence in students so that they may become motivated to build fluency by interacting with other speakers.
 
 ## The Subject
 
@@ -151,7 +151,7 @@ The focus of this segment is to define the use of adjectives that describe a tem
 > **Ustedes tienen un gato en su maleta** in English is *Y'all have a cat in your suitcase*.
 
 ### A subject has questions
-`ex. 15 Present questions regarding ownership.`
+`ex. 15: Present questions regarding ownership.`
 > **¿Tienes hermanos?** in English is *Do you have siblings?*
 >
 > **¿Ella tiene mascotas?** in English is *Does she have pets?*
