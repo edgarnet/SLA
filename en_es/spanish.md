@@ -138,20 +138,35 @@ The focus of this segment is to define the use of adjectives that describe a tem
 
 ### A subject has things
 `ex. 14: Present the verb for ownership in the present-tense.`
->**Yo tengo un mapa para tu viaje** in English is *I have a map for your trip*.
+> **Yo tengo un mapa para tu viaje** in English is *I have a map for your trip*.
 >
->**Tú tienes el billete para mi viaje** in English is *You have the ticket for my trip*.
+> **Tú tienes el billete para mi viaje** in English is *You have the ticket for my trip*.
 >
->**Ellas tienen planes para toda la semana** in English is *They have plans for the whole week*.
+> **Ellas tienen planes para toda la semana** in English is *They have plans for the whole week*.
 >
->**Nosotros tenemos una reserva en su restaurante** in English is *We have a reservation at his restaurant*.
+> **Nosotros tenemos una reserva en su restaurante** in English is *We have a reservation at his restaurant*.
 >
->**Ella tiene espacio en nuestro carro** in English is *She has room in our car*.
+> **Ella tiene espacio en nuestro carro** in English is *She has room in our car*.
 >
->**Ustedes tienen un gato en su maleta** in English is *Y'all have a cat in your suitcase*.
+> **Ustedes tienen un gato en su maleta** in English is *Y'all have a cat in your suitcase*.
 
 ### A subject has questions
-(hacer, que, quien, cuanto, como, cuando, por que)
+`ex. 15 Present questions regarding ownership.`
+> **¿Tienes hermanos?** in English is *Do you have siblings?*
+>
+> **¿Ella tiene mascotas?** in English is *Does she have pets?*
+>
+> **¿Ellos tienen hijos?** in English is *Do they have children?*
+>
+> **¿Tenemos tiempo?** in English is *Do we have time?*
+>
+> **¿Tienes hambre?** in English is *Are you hungry? ~~{Do you have hunger?}~~*
+>
+> **¿Tienen miedo?** in English is *Are they scared? ~~{Do they have fear?}~~*
+>
+> **¿Cuántos años tienes?** in English is *How old are you? ~~{How many years do you have?}~~*
+>
+> **¿Cuánto tenemos?** in English is *How much do we have?*
 
 ### A subject has wants
 
@@ -163,10 +178,15 @@ The focus of this segment is to define the use of adjectives that describe a tem
 
 ---
 
-How should different verb tenses be introduced?
+How should different questions be introduced?
+e.g. ¿Quién? ¿Cuándo? ¿[A]Donde?
 
 When should numerals be defined?
 
 When should adverbs be discussed?
 
 When should object pronouns be introduced?
+
+When should demontrative determiners be presented?
+
+When should "Cómo" and "Qué" be discussed?
