@@ -56,7 +56,7 @@ The subject in this sentence is the **dog**.
 ~~*Define only if plurality exists in the novel language.*~~
 
 `ex. 5: Present examples of indefinite articles.`
-> **A car** in Spanish is *Un carro*.
+> **A car** in Spanish is *Un coche*.
 >
 > **A song** in Spanish is *Una canción*.
 > 
@@ -142,11 +142,11 @@ The focus of this segment is to define the use of adjectives that describe a tem
 >
 > **Tú tienes el billete para mi viaje** in English is *You have the ticket for my trip*.
 >
-> **Ellas tienen planes para toda la semana** in English is *They have plans for the whole week*.
+> **Ellas tienen planes para el grupo** in English is *They have plans for the group*.
 >
 > **Nosotros tenemos una reserva en su restaurante** in English is *We have a reservation at his restaurant*.
 >
-> **Ella tiene espacio en nuestro carro** in English is *She has room in our car*.
+> **Ella tiene espacio en nuestro coche** in English is *She has room in our car*.
 >
 > **Ustedes tienen un gato en su maleta** in English is *Y'all have a cat in your suitcase*.
 
@@ -169,14 +169,50 @@ The focus of this segment is to define the use of adjectives that describe a tem
 > **¿Cuánto tenemos?** in English is *How much do we have?*
 
 ### A subject has wants
+`ex. 16: Present the verb for desire in the present-tense.`
+>**Quiero comer** in English is *I want to eat*.
+>
+>**Queremos saber** in English is *We want to know*.
+>
+>**¿Quieres comida?** in English is *Do you want food?*
+>
+>**Quiere un coche para viajar** in English is *He/She wants a car ~~for~~ to travel in*.
+>
+>**Quieren entradas para el concierto** in English is *They want tickets ~~for~~ to the concert.
+>
+>**Quiero cantar una canción** in English is *I want to sing a song*.
+>
+>**Quiere ser médico** in English is *He/She wants to be a doctor*.
 
 ### A subject has needs
+`ex. 17: Present the verb for demand in the present-tense.`
+>**Necesito beber agua** in English is *I need to drink water*.
+>
+>**Necesita ir a la escuela** in English is *He/She needs to go to ~~the~~ school*.
+>
+>**Necesitan escritorios en sus habitaciones** in English is *They need desks in their rooms*.
+>
+>**Necesitas hablar despacio** in English is *You need to speak slowly*.
+>
+>**Necesitamos un profesor mejor** in English is *We need a better teacher*.
+>
+>**¿Necesitas ir al baño?** in English is *Do you need to go to the restroom?*
+>
+>**Necesito estar ocupado** in English is *I need to be busy*.
 
 ## The Subject Moves
 
 ### Introduction
 
+The focus of this segment is to present actions and questions regarding movement.
+
 ---
+
+## The Subject Counts
+
+## The Subject Describes ~~(Adjectives and Adverbs)~~
+
+## The Subject Indicates
 
 How should different questions be introduced?
 e.g. ¿Quién? ¿Cuándo? ¿[A]Donde?
@@ -185,8 +221,12 @@ When should numerals be defined?
 
 When should adverbs be discussed?
 
-When should object pronouns be introduced?
+When should accusative/dative pronouns be introduced?
 
-When should demontrative determiners be presented?
+When should demonstrative determiners be presented?
 
 When should "Cómo" and "Qué" be discussed?
+
+When should "que", "haber" and "hay" be defined?
+
+How should moods (verb) be introduced?
